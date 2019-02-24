@@ -1,0 +1,32 @@
+DEBUG:__main__:server started
+DEBUG:webserver:main display served
+DEBUG:webserver:[]
+DEBUG:__main__:server started
+DEBUG:webserver:main display served
+DEBUG:webserver:[]
+DEBUG:webserver:main display served
+DEBUG:webserver:[]
+DEBUG:__main__:server started
+DEBUG:webserver:main display served
+DEBUG:webserver:[]
+DEBUG:webserver:main display served
+DEBUG:webserver:[]
+DEBUG:__main__:server started
+DEBUG:webserver:main display served
+DEBUG:webserver:[]
+INFO:__main__:past
+DEBUG:nodes:new node created [test]
+DEBUG:__main__:server started
+DEBUG:webserver:main display served
+DEBUG:webserver:[]
+DEBUG:webserver:main display served
+DEBUG:webserver:[]
+DEBUG:webserver:main display served
+DEBUG:webserver:[]
+INFO:__main__:past
+DEBUG:nodes:new node created [test]
+DEBUG:__main__:server started
+DEBUG:webserver:main display served
+DEBUG:webserver:[]
+INFO:__main__:past
+DEBUG:nodes:new node created [test]

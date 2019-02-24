@@ -1,0 +1,7 @@
+.row {
+   display: flex;
+}
+
+.row > div[class*='col-'] {
+  margin-top: 15px;
+}
